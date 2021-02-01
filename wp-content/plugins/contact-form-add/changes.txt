@@ -1,0 +1,36 @@
+**************
+| 1.9.5 |
+**************
+    ** Fixed link for add new button to redirect to templates screen
+
+**************
+| 1.9.4 |
+**************
+** Entries can be viewed on the free version of the plugin and saved for later use.
+** Conditional logic can be used on the free version of the contact form plugin.
+** Styles are made available in the free version of the plugin.
+
+
+**************
+| Entry Page |
+**************
+
+
+
+**************
+| Templates  |
+**************
+
+**************
+| Themes     | 
+**************
+
+**************
+| New Addons |
+**************
+
+**************
+| Redesign of Notifications |
+**************
+
+Style section redesigned. form preview now move with scroll.
